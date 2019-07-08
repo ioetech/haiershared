@@ -63,3 +63,6 @@ dkms.conf
 
 # Document
 docs/
+
+#build
+build/
